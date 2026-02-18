@@ -1,6 +1,6 @@
 # Notice
 
-This is a sample training and validation data, along with a sample grader. This was curated using [this](https://github.com/medmcqa/medmcqa) as the reference dataset.
+This is a sample training and validation data, along with a sample grader. This was curated using [this](https://github.com/medmcqa/medmcqa) as the reference dataset. **This is a very large dataset and may cause time outs using the RFT service**. If you're just getting started, consider using our simple RFT [Countdown Dataset](https://github.com/microsoft-foundry/fine-tuning/tree/main/Demos/RFT_Countdown)
 
 ## Dataset Summary
 
